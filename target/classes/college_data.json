@@ -1,0 +1,26 @@
+[{
+	"id":1,
+	"departmentName":"管理学院",
+	"desc":"Write once, run anywhere"
+},{
+	"id":2,
+	"departmentName":"城建学院"
+},{
+	"id":3,
+	"departmentName":"人文学院",
+	"selected":true
+},{
+	"id":4,
+	"departmentName":"现代服务业学院"
+},{
+	"id":5,
+	"departmentName":"信息科技学院",
+	"selected":true
+},{ 
+	"id":6,
+	"departmentName":"生环学院"
+},{ 
+	"id":7,
+	"departmentName":"艺术学院"
+}
+] 

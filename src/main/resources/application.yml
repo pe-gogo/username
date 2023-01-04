@@ -1,0 +1,11 @@
+spring:
+  datasource:
+    password: 12345678
+    username: root
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/user?serverTimezone=UTC
+  mvc:
+    view:
+      suffix: .jsp
+server:
+  port: 9009
